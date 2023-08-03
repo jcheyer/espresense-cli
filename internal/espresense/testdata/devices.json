@@ -1,0 +1,39 @@
+{
+    "room": "thisroom",
+    "devices": [
+        {
+            "id": "ca5acfc8417b",
+            "idType": 55,
+            "rssi@1m": -78,
+            "rssi": -74,
+            "raw": 0.73,
+            "distance": 0.77,
+            "speed": 0.01,
+            "mac": "ca5acfc8417b",
+            "interval": 207
+        },
+        {
+            "id": "iBeacon:e5ca1ade-f007-ba11-0000-000000000000-156-31179",
+            "idType": 180,
+            "rssi@1m": -66,
+            "rssi": -80,
+            "raw": 3.03,
+            "distance": 3.71,
+            "speed": -0.03,
+            "mac": "c049efcb799e",
+            "interval": 4366
+        },
+        {
+            "id": "node:otherroom",
+            "name": "otherroom",
+            "idType": 250,
+            "rssi@1m": -66,
+            "rssi": -93,
+            "raw": 8.47,
+            "distance": 9.29,
+            "speed": -0.05,
+            "mac": "a0b7654d804a",
+            "interval": 6966
+        }
+    ]
+}
